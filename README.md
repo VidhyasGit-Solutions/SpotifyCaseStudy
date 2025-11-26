@@ -1,0 +1,3 @@
+As a group, we have decided to do a trend analysis of Spotify data involving many tracks by a single artist that have changed over time (yearly) in terms of their acoustic, danceable, energetic, instrumental, live, loud, speechy, tempo, and valence aspects.
+
+Currently, the strategy is to store data for a few years before connecting the MySQL DB server to a BI tool. Example: Probably Tableau or Power BI and planned to export the data by establishing the connection to the DB server, developing a dashboard for an artist with individual graphical representations for certain audio feature data, and generating the visualization across the duration (yearly).
